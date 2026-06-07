@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'Bitcount Grid Single';
+  src: url('./Fonts/BitcountGridSingle_Cursive-Medium.ttf') format('truetype');
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: pink;
+}
+canvas {
+  display: block;
+  
+}
+.texto-fijo {
+  position: absolute;
+  top: 0px;
+  left: 20px;
+  color: palevioletred;
+  font-family: 'Bitcount Grid Single', sans-serif;
+  font-weight: normal;
+  font-size:60px;
+}
+.texto-fijo2 {
+  position: absolute;
+  top: 60px;
+  left: 20px;
+  color: palevioletred;
+  font-family: 'Bitcount Grid Single', sans-serif;
+  font-weight: normal;
+  font-size:30px;
+}
+.texto-fijo3 {
+  position: absolute;
+  top: 105px;
+  left: 10px;
+  color: palevioletred;
+  font-family: 'Bitcount Grid Single', sans-serif;
+  font-weight: normal;
+  font-size:20px;
+}
