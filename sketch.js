@@ -4,7 +4,7 @@ let naranja = 10
 let azul = 200
 let magenta = 300
 let verde = 130
-let divhue = 2%360;
+let divhue = 4%360;
 let font;
 
 function preload() {
