@@ -6,7 +6,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: pink;
+  background: palevioletred;
 }
 canvas {
   display: block;
@@ -19,7 +19,7 @@ canvas {
   color: palevioletred;
   font-family: 'Bitcount Grid Single', sans-serif;
   font-weight: normal;
-  font-size:60px;
+  font-size: 60px;
 }
 .texto-fijo2 {
   position: absolute;
@@ -28,7 +28,7 @@ canvas {
   color: palevioletred;
   font-family: 'Bitcount Grid Single', sans-serif;
   font-weight: normal;
-  font-size:30px;
+  font-size: 30px;
 }
 .texto-fijo3 {
   position: absolute;
@@ -37,5 +37,41 @@ canvas {
   color: palevioletred;
   font-family: 'Bitcount Grid Single', sans-serif;
   font-weight: normal;
-  font-size:20px;
+  font-size: 20px;
+}
+.texto-fijo4 {
+  position: absolute;
+  top: 160px;
+  left: 17px;
+  color: palevioletred;
+  font-family: 'Bitcount Grid Single', sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+}
+.texto-fijo5 {
+  position: absolute;
+  top: 260px;
+  left: 17px;
+  color: palevioletred;
+  font-family: 'Bitcount Grid Single', sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+}
+.texto-fijo6 {
+  position: absolute;
+  top: 360px;
+  left: 17px;
+  color: palevioletred;
+  font-family: 'Bitcount Grid Single', sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+}
+.randomizador{
+  position: absolute;
+  top: 600px;
+  left: 17px;
+  color: palevioletred;
+  font-family: 'Bitcount Grid Single', sans-serif;
+  font-weight: normal;
+  font-size: 20px;
 }
