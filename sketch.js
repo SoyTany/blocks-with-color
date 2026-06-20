@@ -12,7 +12,7 @@ let verde = 130;
 let font;
 
 function preload() {
-  font = loadFont ('/Fonts/BitcountGridSingle_Cursive-Medium.ttf');
+  font = loadFont ('./Fonts/BitcountGridSingle_Cursive-Medium.ttf');
 }
 
 function setup() {
